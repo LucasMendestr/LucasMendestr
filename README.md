@@ -6,9 +6,7 @@ I have a knack for mobile app development 📱, web page creation 🌐, automati
 
 With my technical and business skills combined, I'm confident that I can take your company or project to the next level! 🚀
 
-If you want to know more about me or my work, you can check out my [LinkedIn](https://www.linkedin.com/in/lucastrmendes//).
-
-
+If you want to know more about me or my work, you can check out my pages:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucastrmendes/)](https://www.linkedin.com/in/lucastrmendes/)
 [![GoogleStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=WiseApp91&hl=pt&gl=US)
 
